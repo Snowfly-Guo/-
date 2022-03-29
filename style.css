@@ -1,0 +1,114 @@
+    /* body {
+            background-color: #41fdff;
+            background-image: linear-gradient(46deg, #41fdff 0%, #FC00FF 100%);
+        } */
+        .top {
+            color: black;
+            font-weight: bold;
+            font-size: 25px;
+        }
+        #nav {
+            border-collapse: separate;
+            border-spacing: 53px 1px;
+            background-color: #0052a4;
+            margin-top: -6px;
+            height: 35px;
+        }
+        #nav tr td a {
+            color: white;
+            text-decoration: none;
+        }
+        #nav tr td a:hover {
+            color: #FF2525;
+            color: linear-gradient(147deg, #FF2525 0%, #FFE53B 74%);
+            font-weight: bold;
+        }
+        .lan {
+            border-left: solid 7px rgb(255, 0, 0);
+            color: black;
+            font-weight: bold;
+            font-size: 20px;
+            text-shadow: 2px 2px 10px rgb(71, 68, 68);
+            letter-spacing: 5px;
+        }
+        .jineng {
+            text-align: center;
+            letter-spacing: 10px;
+            font-size: 30px;
+            font-family: 华文新魏;
+            font-weight: bold;
+        }
+        .duanluo {
+            text-indent: 2em;
+            font-size: 15px;
+            line-height: 35px;
+        }
+        .left {
+            line-height: 50px;
+            font-size: 15px;
+            font-family: 微软黑体;
+            color: black;
+            margin-left: 5px;
+        }
+        .left tr td li:hover {
+            color: red;
+        }
+        .xiaoxun {
+            font-family: 华文行楷;
+            color: red;
+            font-size: 20px;
+        }
+        .right {
+            line-height: 39px;
+            font-size: 15px;
+            margin: 5px;
+        }
+        .right tr td li:hover {
+            color: red;
+        }
+        .footone {
+            margin: 0px;
+            padding: 0px;
+            border-collapse: separate;
+            border-spacing: 50px 1px;
+            font-size: 15px;
+        }
+        .footone ul {
+            list-style: none;
+        }
+        .footone div {
+            color: #f4f4f4;
+        }
+        .footone a {
+            text-decoration: none;
+            color: white;
+        }
+        .footone a:hover {
+            color: red;
+            text-decoration: underline;
+        }
+        .weizhi h3 {
+            margin-left: 28px;
+            letter-spacing: 2px;
+        }
+        .weizhi a {
+            font-size: 9px;
+        }
+        .foottwo {
+            font-size: 15px;
+            background-color: #202020;
+            font-size: 9px;
+	        color: #999;
+            margin-bottom: -50px;
+        }
+        .foottwo a {
+            text-decoration: none;
+            color: #999;
+        }
+        .foottwo a:hover {
+            color: #FF2525;
+        }
+        .foottree {
+            background-color: #202020;
+            text-align: center;
+        }
